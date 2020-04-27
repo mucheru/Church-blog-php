@@ -1,0 +1,15 @@
+.post-date{	
+	background:#00FFFF;
+	padding:4px;
+	margin:3px 0;
+	display:block;
+}
+
+.navbar-header .navbar-toggle {
+    margin-top:0px;
+    margin-bottom:0px;
+    padding-bottom:0px;
+}
+
+
+
